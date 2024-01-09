@@ -1,2 +1,2 @@
 # alu-AirBnB_clone
-This isthe ALU project about AirBnB_clone and done by 2 people.
+This is the ALU project about AirBnB_clone and done by 2 people.
