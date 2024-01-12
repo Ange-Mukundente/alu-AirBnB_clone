@@ -111,4 +111,4 @@ help or help <command> Ex:
 
 # Authors
 * Ange Mukundente - <a.mukundent@alustudent.com>
-* Mohammed Daghsni - <1283@alustudent.com>
+* Mugisha Kenny Kevin - <k.mugisha@alustudent.com>
