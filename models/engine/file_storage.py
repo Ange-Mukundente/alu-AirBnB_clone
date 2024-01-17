@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''File Storage'''
 import json
-import BaseModel
+from models.base_model.py import BaseModel
 from models.user import User
 from models.state import State
 from models.city import City
