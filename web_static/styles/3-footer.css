@@ -1,8 +1,8 @@
 footer {
 	background-color: white;
-    height: 60px;
+    height: 62px;
     width: 100%;
-    border-top: 1px solid #CCCCCC;
+    border-top: 1.2px solid #CCCCCC;
     position: fixed;
     display: flex;
     justify-content: center;
